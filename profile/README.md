@@ -1,3 +1,7 @@
-<p align="center" style="margin: 2rem 0;">
-    <img src="./eject-logo.svg" height="128" alt="Eject logo which is a morphed eject button symbol in crayola red">
-</p>
+Eject is the visual editor for creating and deploying best-in-class APIs. API design and engineering happen together on Eject within a fully colaborative platform.
+
+**Want to find out more about our platform? Visit [eject.tech](eject.tech)**
+
+---
+ 
+Check out our open source tools below 👇
